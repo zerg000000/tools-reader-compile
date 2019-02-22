@@ -1,0 +1,1 @@
+src:/Users/laikayu/.m2/repository/org/clojure/clojure/1.9.0/clojure-1.9.0.jar:/Users/laikayu/.m2/repository/org/clojure/tools.reader/1.3.2/tools.reader-1.3.2.jar:/Users/laikayu/.m2/repository/org/clojure/spec.alpha/0.1.143/spec.alpha-0.1.143.jar:/Users/laikayu/.m2/repository/org/clojure/core.specs.alpha/0.1.24/core.specs.alpha-0.1.24.jar
